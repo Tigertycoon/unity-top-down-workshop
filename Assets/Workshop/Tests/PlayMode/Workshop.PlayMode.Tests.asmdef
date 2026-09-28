@@ -1,0 +1,5 @@
+{
+  "name": "Workshop.PlayMode.Tests",
+  "references": ["Workshop.Runtime", "Unity.ugui"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

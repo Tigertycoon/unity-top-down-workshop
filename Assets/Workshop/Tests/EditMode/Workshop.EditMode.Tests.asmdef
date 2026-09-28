@@ -1,0 +1,6 @@
+{
+  "name": "Workshop.EditMode.Tests",
+  "references": ["Workshop.Runtime", "Workshop.Editor"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

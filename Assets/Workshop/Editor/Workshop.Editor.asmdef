@@ -1,0 +1,6 @@
+{
+  "name": "Workshop.Editor",
+  "rootNamespace": "Workshop.EditorTools",
+  "references": ["Workshop.Runtime", "Unity.ugui"],
+  "includePlatforms": ["Editor"]
+}

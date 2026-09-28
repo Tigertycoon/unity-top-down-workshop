@@ -1,0 +1,5 @@
+{
+  "name": "Workshop.Runtime",
+  "rootNamespace": "Workshop",
+  "references": ["Unity.ugui"]
+}
